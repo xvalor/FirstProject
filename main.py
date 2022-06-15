@@ -16,4 +16,7 @@ vlasnost = input()
 print()
 
 
+lasdlalsdasd
+
+
 
